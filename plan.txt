@@ -1,0 +1,10 @@
+[+] Setup the environment using npm init
+[+] we need some dependencies for this project
+    -depenedencies
+    express, nodemon, esm, ejs, body-parser
+[+] Create a server in server.js file
+[+] Create a database and collection
+[+] create connection with mongoDB database
+[+] Create a Schema and than create a model
+[+] Implement the GET, POST -body-form-encoded, DELETE method with all articles
+[+] Implement all the same method along with PUT, PATCH in specific article display
